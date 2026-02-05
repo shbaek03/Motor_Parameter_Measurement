@@ -6,11 +6,11 @@
   - A2212 13T (1000KV)
   - Known resistance: 0.1 $\Omega$
   - Known inductance: 0.00003 $H$
-- ## Measurement procedure
+- ## Measurement Detail
   - Function generator setup
     - Frequency: 10kHz
     - Magnitude: 2V (Peak-to-peak)
   - Measuring device (motor connector)
     - Resistance (role as shunt): 100 $\Omega$
-    - 
+    - Y-connector: connect two phase wires to the ground
 
